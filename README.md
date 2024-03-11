@@ -2,7 +2,7 @@
 
 ## Perfil Freelancer
 
-¡Hola! Soy un Analista de Datos con experiencia en la interpretación y análisis de conjuntos de datos complejos. Mi enfoque se centra en descubrir ideas valiosas a partir de datos y convertirlas en información accionable. Con habilidades técnicas sólidas en análisis estadístico, minería de datos y visualización, así como una pasión por resolver problemas, estoy comprometido a proporcionar soluciones efectivas y basadas en evidencia para impulsar la toma de decisiones informadas.
+¡Hola! Soy un Analista de Datos con experiencia en la interpretación y análisis de conjuntos de datos complejos.   Mi enfoque se centra en descubrir ideas valiosas a partir de datos y convertirlas en información accionable.   Con habilidades técnicas sólidas en análisis estadístico, minería de datos y visualización, así como una pasión por resolver problemas, estoy comprometido a proporcionar soluciones efectivas y basadas en evidencia para impulsar la toma de decisiones informadas.
 
 ## Servicios Ofrecidos
 Análisis de datos exploratorio y descriptivo.  
