@@ -13,7 +13,7 @@ Consultoría en estrategia de datos y recomendaciones para la toma de decisiones
 
 ## Herramientas
 Lenguajes de programación: Python, R, SQL.  
-Herramientas de análisis de datos: Pandas, NumPy, Scikit-learn, TensorFlow, Keras.  
+Herramientas de análisis de datos: Pandas, NumPy, Keras.  
 Herramientas de visualización: Matplotlib, Seaborn, Plotly, Tableau.  
 Bases de datos: MySQL, PostgreSQL, MongoDB.  
 
