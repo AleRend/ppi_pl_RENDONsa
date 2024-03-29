@@ -1,22 +1,31 @@
-# Analista de datos Freelancer
+# Tester de Software / Control de Calidad
 
-## Perfil Freelancer
+¡Hola! Soy Alejandro Rendón, un tester de software apasionado por garantizar la calidad y la usabilidad de las aplicaciones y sitios web. Tengo conocimientos en java, javascript, python, html y sql. He adquirido habilidades sólidas en pruebas de software y estoy emocionado seguir descubriendo y aprendiendo en esta área.
 
-¡Hola! Soy un Analista de Datos con experiencia en la interpretación y análisis de conjuntos de datos complejos. Mi enfoque se centra en descubrir ideas valiosas a partir de datos y convertirlas en información accionable. Con habilidades técnicas sólidas en análisis estadístico, minería de datos y visualización, así como una pasión por resolver problemas, estoy comprometido a proporcionar soluciones efectivas y basadas en evidencia para impulsar la toma de decisiones informadas.
+### ¿Qué hago?
 
-## Servicios Ofrecidos
-Análisis de datos exploratorio y descriptivo.  
-Modelado predictivo y análisis de series temporales.  
-Visualización de datos efectiva y comprensible.  
-Optimización de procesos y estrategias basadas en datos.  
-Consultoría en estrategia de datos y recomendaciones para la toma de decisiones.  
+Como tester de software, me especializo en:
 
-## Herramientas
-Lenguajes de programación: Python, R, SQL.  
-Herramientas de análisis de datos: Pandas, NumPy, Keras.  
-Herramientas de visualización: Matplotlib, Seaborn, Plotly, Tableau.  
-Bases de datos: MySQL, PostgreSQL, MongoDB.  
+- Pruebas funcionales: Verifico que las funciones y características de una aplicación funcionen según lo esperado y cumplan con los requisitos del cliente.
+- Pruebas de usabilidad: Evalúo la experiencia del usuario para asegurarme de que la aplicación sea intuitiva y fácil de usar.
+- Pruebas de rendimiento: Analizo el rendimiento de la aplicación, identifico cuellos de botella y propongo mejoras para optimizar la velocidad y la eficiencia.
+- Pruebas de compatibilidad: Verifico que la aplicación funcione correctamente en diferentes dispositivos, navegadores y sistemas operativos.
 
-## Contacto
-Solo por correo electrónico sergioalejandro.1111@gmail.com  
-Estoy disponible para discutir tus necesidades y cómo puedo ayudarte a alcanzar tus objetivos utilizando el poder de los datos.
+### ¿Por qué trabajar conmigo?
+
+- **Compromiso con la calidad**: Me comprometo a realizar pruebas exhaustivas y rigurosas para garantizar que la aplicación cumpla con los más altos estándares de calidad.
+- **Aprendizaje continuo**: Estoy constantemente aprendiendo y mejorando mis habilidades en pruebas de software para ofrecer un servicio cada vez mejor a mis clientes.
+- **Comunicación transparente**: Mantengo una comunicación clara y abierta con mis clientes para entender sus necesidades y garantizar su satisfacción.
+- **Adaptabilidad**: Aunque soy nuevo en la programación, tengo una mente abierta y estoy dispuesto a enfrentar nuevos desafíos y aprender nuevas tecnologías.
+
+### ¿Cómo puedo ayudarte?
+
+Si estás buscando un tester de software dedicado y entusiasta para tu proyecto, ¡no dudes en contactarme! Estoy emocionado por la oportunidad de trabajar contigo y contribuir al éxito de tu aplicación o sitio web.
+
+### Contacto
+
+- **Correo electrónico:** sergioalejandro.1111@gmail.com
+- **LinkedIn:** https://github.com/AleRend
+- **GitHub:** Proximamente
+
+¡Espero tener la oportunidad de colaborar contigo!
