@@ -26,6 +26,6 @@ Si estás buscando un tester de software dedicado y entusiasta para tu proyecto,
 
 - **Correo electrónico:** sergioalejandro.1111@gmail.com
 - **LinkedIn:** https://github.com/AleRend
-- **GitHub:** Proximamente
+- **GitHub:** https://www.linkedin.com/in/alejandro-rend%C3%B3n-a9a573301/
 
-¡Espero tener la oportunidad de colaborar contigo!
+¡Espero tener la oportunidad de ayudarte a perfeccionar tu software juntos!
